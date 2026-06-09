@@ -50,9 +50,10 @@ Web-based PDF merger application
 
 Tested with:
 
-Python 3.10+
+Python 3.10+ 
 PyPDF2 latest stable release
 Windows 10/11
+
 👩‍💻 Author
 
 Leebika Laxmi
